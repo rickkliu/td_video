@@ -1,0 +1,5 @@
+# Regenerable frame sequences (render_*.js -> ffmpeg)
+motion/frames_*/
+
+# Node deps (restorable via package-lock.json)
+motion/node_modules/
